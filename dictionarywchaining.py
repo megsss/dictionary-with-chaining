@@ -1,9 +1,6 @@
 import unittest
-
+#assignment assigned in CS2050 by Dr.Beaty
 '''
-Description:
-Author:
-Version:
 Help provided to: Piper
 Help received from: Peter, Piper, Sean
 '''
